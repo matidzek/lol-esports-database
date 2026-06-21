@@ -1,0 +1,5 @@
+oracle/*.sql linguist-detectable=true
+oracle/*.sql linguist-language=PLSQL
+
+mssql/*.sql linguist-detectable=true
+mssql/*.sql linguist-language=TSQL
